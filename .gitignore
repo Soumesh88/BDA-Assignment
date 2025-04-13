@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+BDA
+metastore_db
+spark-warehouse
+derby.log
+
+.env
