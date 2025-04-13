@@ -5,6 +5,13 @@
 
 ---
 
+## ✅ How to Run
+
+- **To run the project:** Run the jupyter notebook *Assignment-2.ipynb*
+- **To run the visualization:** Run the python file *app.py* and use the IP address displayed in terminal.
+
+---
+
 ## 🧠 Project Outcomes
 
 ### 1. 🔬 Research Prototype for Large-Scale Stock Trend Forecasting
