@@ -19,6 +19,8 @@ This project demonstrates a robust and scalable pipeline for collecting, storing
 - **Model Evaluation:** Comparative analysis between multiple regressors to find the best-fit predictive model
 - **Visualization Tool:** Dash for interactive data visualization
 
+![Flow](https://github.com/user-attachments/assets/ff8749c5-9505-4e80-82e9-f8ff1b61d506)
+
 ---
 
 ### 2. 🤖 Benchmarking Machine Learning Models vs. Traditional Statistical Methods
@@ -44,6 +46,8 @@ An interactive frontend dashboard was built using **Dash** (by Plotly), allowing
 - Select stocks to visualize historical and predicted trends
 - View model performance comparison dynamically
 - Analyze features using principal component analysis (PCA)
+
+![Stocks](https://github.com/user-attachments/assets/dd2b519d-a4a5-428e-88bf-71b62e8b0182)
 
 In addition, **Apache Hive** is integrated to enable SQL-like querying over the Hadoop-stored data for pattern discovery and ad hoc analysis.
 
